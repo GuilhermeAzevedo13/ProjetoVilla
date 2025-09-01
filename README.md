@@ -97,15 +97,21 @@ Faça backup antes de resetar, se quiser preservar o histórico.
 🔒 Nota de segurança (pickle)
 Os arquivos .dat usam pickle. Nunca abra dados pickle de terceiros. Use apenas os .dat gerados por este app.
 ---
-📸 Fotos do sistema (5 espaços)
-Coloque suas imagens em imagens/ com os nomes abaixo (ou ajuste os caminhos).
-Dica: para manter o README leve, use .png otimizadas.
+## 📸 Fotos do sistema
 
-Mapa de Mesas	Cadastro de Morador/Locatário	Busca
-<img src="imagens/foto1_mapa.png" alt="Mapa de Mesas" width="360"/>	<img src="imagens/foto2_cadastro.png" alt="Cadastro" width="360"/>	<img src="imagens/foto3_busca.png" alt="Busca" width="360"/>
+> Clique nas imagens para abrir em tamanho original.
 
-Exibição de Informações	Confirmações/Outros
-<img src="imagens/foto4_exibir.png" alt="Exibição de Informações" width="360"/>	<img src="imagens/foto5_outros.png" alt="Outros" width="360"/>
+<p align="center">
+  <a href="imagens/tela_inicial.png">
+    <img src="imagens/tela_inicial.png" alt="Tela inicial" width="1400">
+  </a>
+</p>
+
+<p align="center">
+  <a href="imagens/mapa_mesas.png">
+    <img src="imagens/mapa_mesas.png" alt="Mapa de Mesas" width="1400">
+  </a>
+</p>
 ---
 🛣️ Roadmap (ideias futuras)
 Exportar planilhas (CSV/Excel) com a alocação.
