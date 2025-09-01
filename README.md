@@ -32,7 +32,7 @@ ProjetoVilla/
 ├── registroMesas.dat      # Base de dados (pickle) – mesas
 └── imagens/               # Capturas (screenshots), logos, etc.
 Persistência: os arquivos .dat usam pickle (biblioteca padrão do Python). (Não abra arquivos pickle de origem desconhecida.)
----
+```
 🚀 Como executar
 Opção 1 — Windows (recomendada para o evento)
 Baixe/clone este repositório.
